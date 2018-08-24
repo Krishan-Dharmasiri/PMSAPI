@@ -1,0 +1,11 @@
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\bin\Debug\netcoreapp2.0\AspNetCoreWebAPI.deps.json
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\bin\Debug\netcoreapp2.0\AspNetCoreWebAPI.runtimeconfig.json
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\bin\Debug\netcoreapp2.0\AspNetCoreWebAPI.runtimeconfig.dev.json
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\bin\Debug\netcoreapp2.0\AspNetCoreWebAPI.dll
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\bin\Debug\netcoreapp2.0\AspNetCoreWebAPI.pdb
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\obj\Debug\netcoreapp2.0\AspNetCoreWebAPI.csprojResolveAssemblyReference.cache
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\obj\Debug\netcoreapp2.0\AspNetCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\obj\Debug\netcoreapp2.0\AspNetCoreWebAPI.AssemblyInfoInputs.cache
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\obj\Debug\netcoreapp2.0\AspNetCoreWebAPI.AssemblyInfo.cs
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\obj\Debug\netcoreapp2.0\AspNetCoreWebAPI.dll
+C:\Krishantha\TestProjects\AspNetCoreWebAPI\AspNetCoreWebAPI\obj\Debug\netcoreapp2.0\AspNetCoreWebAPI.pdb
