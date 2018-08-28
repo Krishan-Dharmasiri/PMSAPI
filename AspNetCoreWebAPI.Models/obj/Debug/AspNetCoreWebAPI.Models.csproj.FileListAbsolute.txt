@@ -1,0 +1,6 @@
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.Models\bin\Debug\AspNetCoreWebAPI.Models.dll
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.Models\bin\Debug\AspNetCoreWebAPI.Models.pdb
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.Models\obj\Debug\AspNetCoreWebAPI.Models.csprojAssemblyReference.cache
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.Models\obj\Debug\AspNetCoreWebAPI.Models.csproj.CoreCompileInputs.cache
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.Models\obj\Debug\AspNetCoreWebAPI.Models.dll
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.Models\obj\Debug\AspNetCoreWebAPI.Models.pdb

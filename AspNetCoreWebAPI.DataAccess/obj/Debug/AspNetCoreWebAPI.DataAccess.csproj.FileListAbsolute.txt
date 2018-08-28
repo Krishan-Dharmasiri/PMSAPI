@@ -1,0 +1,9 @@
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\bin\Debug\AspNetCoreWebAPI.DataAccess.dll
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\bin\Debug\AspNetCoreWebAPI.DataAccess.pdb
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\bin\Debug\AspNetCoreWebAPI.Models.dll
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\bin\Debug\AspNetCoreWebAPI.Models.pdb
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\obj\Debug\AspNetCoreWebAPI.DataAccess.csprojAssemblyReference.cache
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\obj\Debug\AspNetCoreWebAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\obj\Debug\AspNetCoreWebAPI.DataAccess.csproj.CopyComplete
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\obj\Debug\AspNetCoreWebAPI.DataAccess.dll
+C:\Krishantha\Projects\PMSAPI\AspNetCoreWebAPI.DataAccess\obj\Debug\AspNetCoreWebAPI.DataAccess.pdb

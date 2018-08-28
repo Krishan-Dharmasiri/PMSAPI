@@ -5029,6 +5029,27 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "AspNetCoreWebAPI.DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "AspNetCoreWebAPI.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AspNetCoreWebAPI.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspNetCoreWebAPI.DataAccess.dll": {}
+        }
+      },
+      "AspNetCoreWebAPI.Models/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AspNetCoreWebAPI.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspNetCoreWebAPI.Models.dll": {}
+        }
       }
     }
   },
@@ -13105,10 +13126,22 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "AspNetCoreWebAPI.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../AspNetCoreWebAPI.DataAccess/AspNetCoreWebAPI.DataAccess.csproj",
+      "msbuildProject": "../AspNetCoreWebAPI.DataAccess/AspNetCoreWebAPI.DataAccess.csproj"
+    },
+    "AspNetCoreWebAPI.Models/1.0.0": {
+      "type": "project",
+      "path": "../AspNetCoreWebAPI.Models/AspNetCoreWebAPI.Models.csproj",
+      "msbuildProject": "../AspNetCoreWebAPI.Models/AspNetCoreWebAPI.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "AspNetCoreWebAPI.DataAccess >= 1.0.0",
+      "AspNetCoreWebAPI.Models >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0"
@@ -13143,7 +13176,14 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Krishantha\\Projects\\PMSAPI\\AspNetCoreWebAPI.DataAccess\\AspNetCoreWebAPI.DataAccess.csproj": {
+              "projectPath": "C:\\Krishantha\\Projects\\PMSAPI\\AspNetCoreWebAPI.DataAccess\\AspNetCoreWebAPI.DataAccess.csproj"
+            },
+            "C:\\Krishantha\\Projects\\PMSAPI\\AspNetCoreWebAPI.Models\\AspNetCoreWebAPI.Models.csproj": {
+              "projectPath": "C:\\Krishantha\\Projects\\PMSAPI\\AspNetCoreWebAPI.Models\\AspNetCoreWebAPI.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

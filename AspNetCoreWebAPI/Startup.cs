@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using AspNetCoreWebAPI.Extensions;
+using AspNetCoreWebAPI.DataAccess.Services;
 using System.IO;
 
 namespace AspNetCoreWebAPI
@@ -28,6 +29,8 @@ namespace AspNetCoreWebAPI
             services.ConfigureCors();
 
             services.ConfigureIISIntegration();
+
+            services.AddSingleton<IInvestorService, InvestorService>();
 
             services.AddMvc();
         }

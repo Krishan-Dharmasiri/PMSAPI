@@ -18,4 +18,9 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetCoreWebAPI.DataAccess\AspNetCoreWebAPI.DataAccess.csproj" />
+    <ProjectReference Include="..\AspNetCoreWebAPI.Models\AspNetCoreWebAPI.Models.csproj" />
+  </ItemGroup>
+
 </Project>
