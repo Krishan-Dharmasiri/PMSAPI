@@ -8,7 +8,7 @@ namespace AspNetCoreWebAPI.Helpers
 {
     public class FlatFileLogger
     {
-        private static readonly string _destination = @"C:\Krishantha\TestProjects\Logs";
+        private static readonly string _destination = @"C:\Krishantha\Projects\PMSAPI\";
        
 
         public static void Log(string message)

@@ -1,0 +1,34 @@
+Starting to do slow work
+Starting to do slow work
+Finished slow delay of 10 seconds
+Starting to do slow work
+Starting to do slow work
+Finished slow delay of 10 seconds
+Starting to do slow work
+Starting to do slow work
+Finished slow delay of 10 seconds
+
+
+Building the report started
+Finished Building the slow report
+
+
+Building the report started
+Developer Code : Building Report Cancelled
+Framework Code : The operation was canceled.
+Starting to do slow work
+Finished slow delay of 10 seconds
+Starting to do slow work
+Framework Code :A task was canceled.
+Starting to do slow work
+Framework Code :A task was canceled.
+Starting to do slow work
+Finished slow delay of 10 seconds
+Starting to do slow work
+Finished slow delay of 10 seconds
+
+
+Building the report started
+Finished Building the slow report
+Starting to do slow work
+Finished slow delay of 10 seconds

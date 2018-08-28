@@ -13120,15 +13120,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Krishantha\\TestProjects\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj",
+      "projectUniqueName": "C:\\Krishantha\\Projects\\PMSAPI\\AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj",
       "projectName": "AspNetCoreWebAPI",
-      "projectPath": "C:\\Krishantha\\TestProjects\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj",
+      "projectPath": "C:\\Krishantha\\Projects\\PMSAPI\\AspNetCoreWebAPI\\AspNetCoreWebAPI.csproj",
       "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-      "outputPath": "C:\\Krishantha\\TestProjects\\AspNetCoreWebAPI\\AspNetCoreWebAPI\\obj\\",
+      "outputPath": "C:\\Krishantha\\Projects\\PMSAPI\\AspNetCoreWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13158,18 +13155,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           },
-          "Microsoft.AspNetCore.All": {
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           }
         },
         "imports": [
